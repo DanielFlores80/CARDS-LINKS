@@ -1,0 +1,10 @@
+
+.card-body{
+    background-color: beige;
+}
+*{
+    background-image: url("./Assets/fondo.png");
+}
+.image-width{
+    width: 70px;
+}
